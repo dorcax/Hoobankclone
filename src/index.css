@@ -5,7 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+body{
+  font-family: "Poppins", sans-serif;
+}
 .bg-discount-gradient {
     background: linear-gradient(125.17deg, #272727 0%, #11101d 100%);
   }
