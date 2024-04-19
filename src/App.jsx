@@ -12,7 +12,7 @@ import Footer from './component/Footer'
 
 const App = () => {
   return (
-    <div className='w-full  bg-[#000] px-24  font-["Poppins", sans-serif]'>
+    <div className='w-full  bg-[#000] px-6 md:px-24  font-["Poppins", sans-serif] overflow-x-hidden '>
       <Navbar/>
 
         <Hero/>
